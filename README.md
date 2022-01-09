@@ -1,4 +1,4 @@
-## AyagawaSeirin 綾川星凛
+## 茶饼茶饼
 
 > 其生若浮，其死若休
 
@@ -8,11 +8,9 @@
 
 Hi, glad to meet you~
 
-Here is AyagawaSeirin, a student from Shenzhen, China.
+Here is Teacake, a student from Tianjin, China.
 
-I'm a 🏳️‍🌈[MtF](https://en.wikipedia.org/wiki/Trans_woman)([Transgender](https://en.wikipedia.org/wiki/Transgender))🏳️‍⚧️, and I think I am just a normal little girl.
-
-I'm interested in coding. In my spare time, I'd like to write code and article. Coding for fun, and I love it. My article would be public in my [blog](https://owomoe.net)(zh-CN).
+I'm interested in coding. In my spare time, I'd like to write code and article. Coding for fun, and I love it. My article would be public in my [blog](https://teacake.xyz/)(zh-CN).
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergou1219&layout=compact">
