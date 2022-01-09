@@ -19,7 +19,10 @@ I'm interested in coding. In my spare time, I'd like to write code and article. 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergou1219&layout=compact">
 </a>
 
+ 
 
+
+ 
 ### Contact
 Welcome to chat with me! Here is my contact.<br>
 And I'm delighted if you can join my [Discord group](https://discord.gg/SBYchXw).
